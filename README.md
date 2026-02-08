@@ -64,24 +64,7 @@ The orchestration happens in `main.py`.
 Create and activate a virtual environment, then install dependencies.
 
 ```bash
-pip install \
-  agno==2.4.8 \
-  ddgs==9.10.0 \
-  dotenv==0.9.9 \
-  fastapi==0.128.5 \
-  python-dotenv==1.2.1
-```
-
-Install Crawl4AI (required):
-
-```bash
-pip install crawl4ai
-```
-
-Optional (handy if you run inside notebooks / environments with an existing event loop):
-
-```bash
-pip install nest-asyncio
+pip install -r requirements.txt
 ```
 
 ---
