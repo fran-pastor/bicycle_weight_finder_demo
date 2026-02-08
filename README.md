@@ -8,8 +8,7 @@
 
 ---
 ## LinkedIn post
-This repository is part of a LinkedIn post (Spanish): https://www.linkedin.com/posts/fran-pastor_ia-agentesia-aiengineering-activity-7426391511992471552-BBnL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAnUPkMB_txnu02jaeaCvz3Bn7aAlTfzUWk
-
+[Read the LinkedIn post]([https://www.linkedin.com/posts/fran-pastor_ia-agentesia-aiengineering-activity-7426391511992471552-BBnL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAnUPkMB_txnu02jaeaCvz3Bn7aAlTfzUWk)
 ---
 
 ## What this project does
