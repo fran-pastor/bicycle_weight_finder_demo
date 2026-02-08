@@ -7,6 +7,10 @@
 > **Do not use this as-is in production**: it’s intentionally “overkill” (and intentionally imperfect in places) to surface key concepts (workflows, tools, prompting, agents vs. teams, structured outputs, etc.). You *can* reuse ideas and patterns for professional implementations—with proper engineering, security, observability, and governance.
 
 ---
+## LinkedIn post
+This repository is part of a LinkedIn post (Spanish): https://www.linkedin.com/posts/fran-pastor_ia-agentesia-aiengineering-activity-7426391511992471552-BBnL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAnUPkMB_txnu02jaeaCvz3Bn7aAlTfzUWk
+
+---
 
 ## What this project does
 
